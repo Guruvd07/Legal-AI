@@ -3,8 +3,7 @@ from pathlib import Path
 import uuid
 
 from fastapi import APIRouter, HTTPException
-from app.services.layout_crop_service import crop_document_layout
-from app.services.layout_detection_service import detect_document_layout
+
 from app.services.document_indexer import index_document
 from app.services.table_ocr_service import extract_document_tables
 from app.services.chart_extraction_service import extract_document_charts
@@ -79,6 +78,11 @@ def detect_uploaded_document_layout(document_id: str):
         )
 
     try:
+        # Lazy loading: import YOLO-related services only
+        # when the layout detection endpoint is requested.
+        from app.services.layout_detection_service import detect_document_layout
+        from app.services.layout_crop_service import crop_document_layout
+
         result = detect_document_layout(str(pdf_path))
 
         output_dir = Path("data/layout_detections")

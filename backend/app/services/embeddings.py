@@ -1,16 +1,15 @@
-
-from sentence_transformers import SentenceTransformer
-
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
 _model = None
 
 
-def get_embedding_model() -> SentenceTransformer:
-    """Load the embedding model once and reuse it."""
+def get_embedding_model():
+    """Load the embedding model only when required."""
     global _model
 
     if _model is None:
+        from sentence_transformers import SentenceTransformer
+
         _model = SentenceTransformer(MODEL_NAME)
 
     return _model
@@ -18,6 +17,7 @@ def get_embedding_model() -> SentenceTransformer:
 
 def generate_embeddings(texts: list[str]):
     """Convert text chunks into normalized numerical vectors."""
+
     if not texts:
         return []
 
