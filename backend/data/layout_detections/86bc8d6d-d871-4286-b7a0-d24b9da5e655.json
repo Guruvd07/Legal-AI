@@ -1,0 +1,65 @@
+{
+  "filename": "86bc8d6d-d871-4286-b7a0-d24b9da5e655.pdf",
+  "page_count": 2,
+  "model": "DSD-YOLOv8-v2.pt",
+  "confidence_threshold": 0.25,
+  "detection_count": 4,
+  "detections": [
+    {
+      "page_number": 1,
+      "label": "Figure",
+      "confidence": 0.9598,
+      "bbox": [
+        145.24,
+        932.05,
+        989.92,
+        1278.28
+      ],
+      "coordinate_space": "rendered_page_pixels",
+      "image_width": 1191,
+      "image_height": 1684
+    },
+    {
+      "page_number": 1,
+      "label": "Table",
+      "confidence": 0.7571,
+      "bbox": [
+        158.84,
+        488.27,
+        1034.78,
+        736.66
+      ],
+      "coordinate_space": "rendered_page_pixels",
+      "image_width": 1191,
+      "image_height": 1684
+    },
+    {
+      "page_number": 2,
+      "label": "Table",
+      "confidence": 0.9535,
+      "bbox": [
+        167.96,
+        777.35,
+        1029.05,
+        980.26
+      ],
+      "coordinate_space": "rendered_page_pixels",
+      "image_width": 1191,
+      "image_height": 1684
+    },
+    {
+      "page_number": 2,
+      "label": "Figure",
+      "confidence": 0.9491,
+      "bbox": [
+        152.05,
+        201.24,
+        840.52,
+        679.54
+      ],
+      "coordinate_space": "rendered_page_pixels",
+      "image_width": 1191,
+      "image_height": 1684
+    }
+  ]
+}

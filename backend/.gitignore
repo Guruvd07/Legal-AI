@@ -1,0 +1,38 @@
+@"
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated LegalAI files
+backend/data/uploads/
+backend/data/layout_crops/
+backend/data/layout_detections/
+backend/data/table_extractions/
+backend/data/chart_extractions/
+backend/data/indexes/
+
+# OS files
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore

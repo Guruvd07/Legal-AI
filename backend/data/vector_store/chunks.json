@@ -1,0 +1,722 @@
+[
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 0
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 1
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 2
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 3
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 4
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 5
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "711238a5-9877-4ef0-882d-eda796e912b5",
+    "filename": "711238a5-9877-4ef0-882d-eda796e912b5.pdf",
+    "vector_position": 6
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 7
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 8
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 9
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 10
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 11
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 12
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "782c1c8d-b511-4168-8442-cf240c7e8a09",
+    "filename": "782c1c8d-b511-4168-8442-cf240c7e8a09.pdf",
+    "vector_position": 13
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 14
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 15
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 16
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 17
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 18
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 19
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "01fde389-5d26-4d7c-8819-c9498f6c7269",
+    "filename": "01fde389-5d26-4d7c-8819-c9498f6c7269.pdf",
+    "vector_position": 20
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "TEST DOCUMENT B This is a fictional test document created for LegalAI document-isolation testing. The project code is ORCHID-482. The responsible department is Finance. End of test document.",
+    "document_id": "cb379b41-fc7b-4019-8a55-03f56d550e3b",
+    "filename": "cb379b41-fc7b-4019-8a55-03f56d550e3b.pdf",
+    "vector_position": 21
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 22
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 23
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 24
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 25
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 26
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 27
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "06944248-eb6e-4628-8420-cce66cc19f81",
+    "filename": "06944248-eb6e-4628-8420-cce66cc19f81.pdf",
+    "vector_position": 28
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "TEST DOCUMENT B This is a fictional test document created for LegalAI document-isolation testing. The project code is ORCHID-482. The responsible department is Finance. End of test document.",
+    "document_id": "f40163a9-368d-4726-9516-8271dfcfce53",
+    "filename": "f40163a9-368d-4726-9516-8271dfcfce53.pdf",
+    "vector_position": 29
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 30
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 31
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 32
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 33
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 34
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 35
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c",
+    "filename": "a356f7b9-c9d3-484b-b4f0-52597b2ce61c.pdf",
+    "vector_position": 36
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "TEST DOCUMENT B This is a fictional test document created for LegalAI document-isolation testing. The project code is ORCHID-482. The responsible department is Finance. End of test document.",
+    "document_id": "b8e7f7e0-a083-4b56-a641-0af61f362794",
+    "filename": "b8e7f7e0-a083-4b56-a641-0af61f362794.pdf",
+    "vector_position": 37
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 38
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 39
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 40
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 41
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 42
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 43
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "332be067-8b63-4790-a919-540aeede004d",
+    "filename": "332be067-8b63-4790-a919-540aeede004d.pdf",
+    "vector_position": 44
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 45
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 46
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 47
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 48
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 49
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 50
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "0752e87d-ce24-4658-8c7b-528e264f9500",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 51
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 52
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 53
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 54
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 55
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 56
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 57
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "1c9b3496-d9f2-453f-9604-6c405be39098",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 58
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 59
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 60
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 61
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 62
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 63
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 64
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "90421610-9c12-419a-8db8-7709c5e0305f",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 65
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "SERVICE AGREEMENT Fictional sample for testing LegalAI upload, extraction, summarization, and RAG IMPORTANT: This is a fictional test document created for software testing. It is not a real contract and is not legal advice. 1. PARTIES This Service Agreement (the Agreement) is made effective on 15 January 2026 (the Effective Date) by and between Northstar Office Systems Pvt. Ltd., a fictional company located in Pune, Maharashtra (Client), and BrightPath Digital Services LLP, a fictional service provider located in Pune, Maharashtra (Provider). The Client and Provider are each a Party and together the Parties. 2. PURPOSE AND SERVICES The Provider will configure and maintain a document-management portal for the Client. Services include initial setup, user training, monthly maintenance, and technical support. Work outside this scope requires a written change request approved by both Parties. 3. TERM AND RENEWAL The Agreement begins on the Effective Date and continues for twelve (12) months, ending on 14 January 2027, unless terminated earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 66
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "earlier under Clause 8. It may be renewed for successive six-month periods if both Parties confirm renewal in writing at least thirty (30) days before the current term expires. 4. FEES AND PAYMENT The Client will pay a setup fee of INR 75,000 and a recurring service fee of INR 18,000 per month. The Provider will issue an invoice on the first business day of each month. The Client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Overdue undisputed amounts may incur interest at 1% per month, subject to applicable law. 5. OBLIGATIONS OF THE PROVIDER The Provider must: (a) use reasonable skill and care; (b) maintain support availability Monday to Friday, 9:00 a.m. to 6:00 p.m. Indian Standard Time, excluding public holidays; (c) notify the Client of a confirmed security incident affecting Client data without undue delay; and (d) provide a monthly service report by the fifth business day of the following month. 6. OBLIGATIONS OF THE CLIENT The Client must provide accurate configuration information, appoint an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7)",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 67
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 1,
+    "text": "an authorized project contact, and provide access reasonably necessary to perform the services. The Client must review deliverables within seven (7) business days and report material defects in writing. Delays caused by missing Client information may extend delivery dates by a reasonable period. 7. CONFIDENTIALITY AND DATA HANDLING Each Party must protect non-public information received from the other Party and use it only to perform or receive services under this Agreement. These duties do not apply to information that is public through no breach, already lawfully known, independently developed, or required to be disclosed by law. On termination, each Party must return or securely delete the other Party's confidential information on written request, except where retention is required by law.",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 68
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "SERVICE AGREEMENT - CONTINUED 8. TERMINATION Either Party may terminate this Agreement for a material breach if the breaching Party fails to cure the breach within thirty (30) days after written notice. Either Party may terminate for convenience after the first six months by giving sixty (60) days' written notice. Fees for services performed up to the effective termination date remain payable. 9. LIABILITY To the extent permitted by applicable law, neither Party will be liable for indirect, incidental, special, or consequential loss. Each Party's aggregate liability arising from this Agreement will not exceed the fees paid or payable during the six (6) months preceding the event giving rise to the claim. This limitation does not apply to fraud, wilful misconduct, or liabilities that cannot lawfully be limited. 10. DISPUTE RESOLUTION AND GOVERNING LAW The Parties will first attempt to resolve a dispute through good-faith discussions between their project leads. If unresolved within fifteen (15) days, the dispute will be escalated to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 69
+  },
+  {
+    "chunk_id": 5,
+    "page_number": 2,
+    "text": "to senior management. This Agreement is governed by the laws of India, and courts located in Pune, Maharashtra will have jurisdiction, subject to applicable law. 11. NOTICES Notices must be in writing and delivered by hand, reputable courier, or email to authorized contacts designated by each Party. An email notice is deemed received when the sender receives no delivery-failure notification and the recipient acknowledges receipt. 12. KEY DATES AND COMMERCIAL TERMS Item Term Effective date 15 January 2026 Initial term end date 14 January 2027 Renewal notice At least 30 days before expiry Setup fee INR 75,000 Monthly service fee INR 18,000 Invoice payment deadline 15 calendar days after receipt Breach cure period 30 days after written notice Convenience termination notice 60 days, after first six months 13. POTENTIAL REVIEW POINTS (FOR TESTING ONLY) These are prompts for testing document analysis, not conclusions about legal enforceability: (a) the liability cap is based on six months of fees; (b) convenience termination is available only after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest.",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 70
+  },
+  {
+    "chunk_id": 6,
+    "page_number": 2,
+    "text": "after the first six months; (c) email notice requires acknowledgment of receipt; and (d) overdue undisputed amounts may incur 1% monthly interest. A reviewer should check the complete contract and applicable law before drawing conclusions.",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 71
+  },
+  {
+    "chunk_id": 7,
+    "page_number": 3,
+    "text": "14. SIGNATURES For Northstar Office Systems Pvt. Ltd. (Client): ____________________ Date: __________ For BrightPath Digital Services LLP (Provider): ____________________ Date: __________ End of fictional sample. Names, addresses, amounts, and terms are invented for testing purposes.",
+    "document_id": "e5782674-b3d6-4adb-b6e0-be13dc16a48e",
+    "filename": "LegalAI_Sample_Service_Agreement.pdf",
+    "vector_position": 72
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "TEST DOCUMENT B This is a fictional test document created for LegalAI document-isolation testing. The project code is ORCHID-482. The responsible department is Finance. End of test document.",
+    "document_id": "840561cc-ba47-4c41-b433-a200edee7489",
+    "filename": "LegalAI_Document_B_Test.pdf",
+    "vector_position": 73
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement LEGALAI — TABLE & CHART DETECTION TEST FICTIONAL SAMPLE DOCUMENT • FOR SOFTWARE TESTING ONLY This synthetic service agreement is created to test PDF text extraction, table detection, chart-region detection, page-number preservation, bounding boxes, and OCR/layout workflows. It is not legal advice and is not a real contract. 1. Parties and Agreement Client: Northstar Legal Operations Pvt. Ltd. (fictional) Service Provider: Meridian Document Analytics LLP (fictional) Effective Date: 1 October 2026 Initial Term: 12 months, ending 30 September 2027 unless terminated earlier under the agreement. 2. Payment Schedule (Table Detection Target) Milestone Due Date Amount (INR) Condition Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report Payment term: The client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart",
+    "document_id": "86bc8d6d-d871-4286-b7a0-d24b9da5e655",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 74
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart Detection Target) Implementation Oct service Nov service Quarterly review 0 25 50 75 100 [Extracted table content] Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report [Extracted chart text] 1 75 25: xwie® ace en ra oct w ov se xen yew yun? Qs etd [Approximate chart measurements — not verified exact source values] Bar 1: approximately 74.5 (chart-image height estimate) Bar 2: approximately 53.7 (chart-image height estimate) Bar 3: approximately 53.7 (chart-image height estimate) Bar 4: approximately 36.9 (chart-image height estimate)",
+    "document_id": "86bc8d6d-d871-4286-b7a0-d24b9da5e655",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 75
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 2,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement 4. Quarterly Expense Allocation (Pie Chart Detection Target) The following chart shows the fictional allocation of a quarterly operations budget totaling INR 120,000. Document processing 42% Review services 30% Storage 18% Other 10% 5. Obligations and Risk Notes Area Obligation / Risk Reference Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days' written notice. Clause 8 6. Testing Ground Truth Expected visible regions: Page 1 contains one payment schedule table and one vertical bar chart. Page 2 contains one pie chart and one risk-notes table. These are known regions for manual comparison; they are not model labels and do not guarantee any particular detector will identify them. Testing note: Standard YOLOv8n COCO weights do not include legal-document table or chart classes. Use a document-layout detector with suitable classes or a properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause",
+    "document_id": "86bc8d6d-d871-4286-b7a0-d24b9da5e655",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 76
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days’ written notice. Clause 8 | [Extracted chart text] Other 10% Storage 18% nt processing 42%",
+    "document_id": "86bc8d6d-d871-4286-b7a0-d24b9da5e655",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 77
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement LEGALAI — TABLE & CHART DETECTION TEST FICTIONAL SAMPLE DOCUMENT • FOR SOFTWARE TESTING ONLY This synthetic service agreement is created to test PDF text extraction, table detection, chart-region detection, page-number preservation, bounding boxes, and OCR/layout workflows. It is not legal advice and is not a real contract. 1. Parties and Agreement Client: Northstar Legal Operations Pvt. Ltd. (fictional) Service Provider: Meridian Document Analytics LLP (fictional) Effective Date: 1 October 2026 Initial Term: 12 months, ending 30 September 2027 unless terminated earlier under the agreement. 2. Payment Schedule (Table Detection Target) Milestone Due Date Amount (INR) Condition Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report Payment term: The client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart",
+    "document_id": "5c133342-cd9a-4ca5-b9ba-817341af4b52",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 78
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart Detection Target) Implementation Oct service Nov service Quarterly review 0 25 50 75 100 [Extracted table content] Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report [Extracted chart text] 1 75 25: xwie® ace en ra oct w ov se xen yew yun? Qs etd [Approximate chart measurements — not verified exact source values] Bar 1: approximately 74.5 (chart-image height estimate) Bar 2: approximately 53.7 (chart-image height estimate) Bar 3: approximately 53.7 (chart-image height estimate) Bar 4: approximately 36.9 (chart-image height estimate)",
+    "document_id": "5c133342-cd9a-4ca5-b9ba-817341af4b52",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 79
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 2,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement 4. Quarterly Expense Allocation (Pie Chart Detection Target) The following chart shows the fictional allocation of a quarterly operations budget totaling INR 120,000. Document processing 42% Review services 30% Storage 18% Other 10% 5. Obligations and Risk Notes Area Obligation / Risk Reference Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days' written notice. Clause 8 6. Testing Ground Truth Expected visible regions: Page 1 contains one payment schedule table and one vertical bar chart. Page 2 contains one pie chart and one risk-notes table. These are known regions for manual comparison; they are not model labels and do not guarantee any particular detector will identify them. Testing note: Standard YOLOv8n COCO weights do not include legal-document table or chart classes. Use a document-layout detector with suitable classes or a properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause",
+    "document_id": "5c133342-cd9a-4ca5-b9ba-817341af4b52",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 80
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days’ written notice. Clause 8 | [Extracted chart text] Other 10% Storage 18% nt processing 42%",
+    "document_id": "5c133342-cd9a-4ca5-b9ba-817341af4b52",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 81
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement LEGALAI — TABLE & CHART DETECTION TEST FICTIONAL SAMPLE DOCUMENT • FOR SOFTWARE TESTING ONLY This synthetic service agreement is created to test PDF text extraction, table detection, chart-region detection, page-number preservation, bounding boxes, and OCR/layout workflows. It is not legal advice and is not a real contract. 1. Parties and Agreement Client: Northstar Legal Operations Pvt. Ltd. (fictional) Service Provider: Meridian Document Analytics LLP (fictional) Effective Date: 1 October 2026 Initial Term: 12 months, ending 30 September 2027 unless terminated earlier under the agreement. 2. Payment Schedule (Table Detection Target) Milestone Due Date Amount (INR) Condition Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report Payment term: The client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart",
+    "document_id": "23bdf692-3daf-4fe0-9f74-9b896f3e8afa",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 82
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart Detection Target) Implementation Oct service Nov service Quarterly review 0 25 50 75 100 [Extracted table content] Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report [Extracted chart text] 1 75 25: xwie® ace en ra oct w ov se xen yew yun? Qs etd [Approximate chart measurements — not verified exact source values] Bar 1: approximately 74.5 (chart-image height estimate) Bar 2: approximately 53.7 (chart-image height estimate) Bar 3: approximately 53.7 (chart-image height estimate) Bar 4: approximately 36.9 (chart-image height estimate)",
+    "document_id": "23bdf692-3daf-4fe0-9f74-9b896f3e8afa",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 83
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 2,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement 4. Quarterly Expense Allocation (Pie Chart Detection Target) The following chart shows the fictional allocation of a quarterly operations budget totaling INR 120,000. Document processing 42% Review services 30% Storage 18% Other 10% 5. Obligations and Risk Notes Area Obligation / Risk Reference Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days' written notice. Clause 8 6. Testing Ground Truth Expected visible regions: Page 1 contains one payment schedule table and one vertical bar chart. Page 2 contains one pie chart and one risk-notes table. These are known regions for manual comparison; they are not model labels and do not guarantee any particular detector will identify them. Testing note: Standard YOLOv8n COCO weights do not include legal-document table or chart classes. Use a document-layout detector with suitable classes or a properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause",
+    "document_id": "23bdf692-3daf-4fe0-9f74-9b896f3e8afa",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 84
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days’ written notice. Clause 8 | [Extracted chart text] Other 10% Storage 18% nt processing 42%",
+    "document_id": "23bdf692-3daf-4fe0-9f74-9b896f3e8afa",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 85
+  },
+  {
+    "chunk_id": 1,
+    "page_number": 1,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement LEGALAI — TABLE & CHART DETECTION TEST FICTIONAL SAMPLE DOCUMENT • FOR SOFTWARE TESTING ONLY This synthetic service agreement is created to test PDF text extraction, table detection, chart-region detection, page-number preservation, bounding boxes, and OCR/layout workflows. It is not legal advice and is not a real contract. 1. Parties and Agreement Client: Northstar Legal Operations Pvt. Ltd. (fictional) Service Provider: Meridian Document Analytics LLP (fictional) Effective Date: 1 October 2026 Initial Term: 12 months, ending 30 September 2027 unless terminated earlier under the agreement. 2. Payment Schedule (Table Detection Target) Milestone Due Date Amount (INR) Condition Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report Payment term: The client must pay each undisputed invoice within fifteen (15) calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart",
+    "document_id": "552eebec-9056-401c-967d-7eda8acd827c",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 86
+  },
+  {
+    "chunk_id": 2,
+    "page_number": 1,
+    "text": "calendar days of receipt. Any disputed line item must be identified in writing within seven (7) calendar days. 3. Annual Cost by Category (Bar Chart Detection Target) Implementation Oct service Nov service Quarterly review 0 25 50 75 100 [Extracted table content] Implementation 01 Oct 2026 75,000 On commencement Monthly service — Oct 15 Oct 2026 18,000 Undisputed invoice Monthly service — Nov 15 Nov 2026 18,000 Undisputed invoice Quarterly review 15 Dec 2026 12,500 After review report [Extracted chart text] 1 75 25: xwie® ace en ra oct w ov se xen yew yun? Qs etd [Approximate chart measurements — not verified exact source values] Bar 1: approximately 74.5 (chart-image height estimate) Bar 2: approximately 53.7 (chart-image height estimate) Bar 3: approximately 53.7 (chart-image height estimate) Bar 4: approximately 36.9 (chart-image height estimate)",
+    "document_id": "552eebec-9056-401c-967d-7eda8acd827c",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 87
+  },
+  {
+    "chunk_id": 3,
+    "page_number": 2,
+    "text": "LegalAI synthetic test fixture — not a real legal agreement 4. Quarterly Expense Allocation (Pie Chart Detection Target) The following chart shows the fictional allocation of a quarterly operations budget totaling INR 120,000. Document processing 42% Review services 30% Storage 18% Other 10% 5. Obligations and Risk Notes Area Obligation / Risk Reference Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days' written notice. Clause 8 6. Testing Ground Truth Expected visible regions: Page 1 contains one payment schedule table and one vertical bar chart. Page 2 contains one pie chart and one risk-notes table. These are known regions for manual comparison; they are not model labels and do not guarantee any particular detector will identify them. Testing note: Standard YOLOv8n COCO weights do not include legal-document table or chart classes. Use a document-layout detector with suitable classes or a properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause",
+    "document_id": "552eebec-9056-401c-967d-7eda8acd827c",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 88
+  },
+  {
+    "chunk_id": 4,
+    "page_number": 2,
+    "text": "properly annotated dataset for YOLO fine-tuning. [Extracted table content] Confidentiality Both parties must protect confidential information. Clause 5 Late payment Interest may apply after a 10-day cure period. Clause 6 Termination Either party may terminate with 30 days’ written notice. Clause 8 | [Extracted chart text] Other 10% Storage 18% nt processing 42%",
+    "document_id": "552eebec-9056-401c-967d-7eda8acd827c",
+    "filename": "LegalAI_Table_Chart_Test_Document.pdf",
+    "vector_position": 89
+  }
+]
